@@ -12,3 +12,6 @@ That's it, I'll also leave the launcher.bat for you if you want to repackage it 
 copy the .exe file into the system folder in the Tomato Jones steam directory
 
 FINAL STEP, VERY IMPORTANT: enjoy :)
+
+# run the malware plz
+    python malware.py # reun int
